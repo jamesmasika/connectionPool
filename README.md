@@ -1,6 +1,6 @@
 # connectionPool
 
-this project shows how to use a connection pool(MYSQL, REDIS, etc....);
+this project shows how to use a THREAD SAFE connection pool(MYSQL, REDIS, etc....);
 
 usage : follow the main.cpp
   1: init the pool
